@@ -1,0 +1,1551 @@
+{
+ "v": 1,
+ "read": "20 Nov 2026",
+ "sources": [
+  {
+   "name": "Official list — PS5 trophy list as published by PlayStation Network, mirrored by Exophase and PSNProfiles",
+   "url": null,
+   "note": "The kit’s data file; both mirrors agree on every name, description and grade."
+  },
+  {
+   "name": "PowerPyx — GTA 6 Trophy Guide & Roadmap",
+   "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+   "note": "Full guide and roadmap; flags the one possibly missable trophy; the meditation locations guide; cheats disable trophies."
+  },
+  {
+   "name": "Planet GTA 6 — GTA 6 Trophies: All 55 Trophies and Xbox Achievements",
+   "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+   "note": "Visible/hidden split from Exophase, cross-checked with PSNProfiles and TrueAchievements."
+  },
+  {
+   "name": "eGamers — GTA 6 Trophy List: All 55 Trophies and Achievements, Plus the Hardest Ones",
+   "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+   "note": "Grade and hidden totals; hardest trophies; reports GTABase and TechWiser."
+  },
+  {
+   "name": "SixShore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap",
+   "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/",
+   "note": "Counts cross-checked with PSNProfiles; platinum time estimates; stunt totals."
+  },
+  {
+   "name": "GTA Vice City Hub — GTA 6 Achievements",
+   "url": "https://www.gtavicecityhub.com/achievements",
+   "note": "Full list in their own words; manual-save advice; the two hint-only trophies."
+  },
+  {
+   "name": "CryptoGames — GTA 6 Trophies and Achievements: Full List and Hard Ones",
+   "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/",
+   "note": "A second full list in their own words; hardest-trophy picks."
+  },
+  {
+   "name": "Push Square — GTA 6 PS5 trophy list report",
+   "url": null,
+   "note": "Reported the PS5 list from Exophase; marks the list all single-player."
+  },
+  {
+   "name": "GTABase and TechWiser — as reported by eGamers",
+   "url": null,
+   "note": "GTABase’s list and roadmap (missable flag, cheats, WAiNK totals) and TechWiser’s stranger-window report, both read via eGamers’ reporting."
+  }
+ ],
+ "guides": {
+  "1": {
+   "s": 7,
+   "k": [
+    "completion"
+   ],
+   "h": "Earn the other 54 trophies; the platinum lands on its own when the last of them does.",
+   "p": [
+    [
+     "Work the list in roadmap order— story first, side chains second, the 100% cleanup last— so no effort is ever spent twice.",
+     [
+      2,
+      5
+     ]
+    ],
+    [
+     "When the 54th trophy lands, this one follows automatically; there is nothing separate to unlock or buy.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "No trophy on the list is online: all 54 can be earned alone, offline, in one playthrough.",
+     [
+      2,
+      8
+     ]
+    ]
+   ]
+  },
+  "2": {
+   "s": 1,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish Gone Fishing, the opening mission— the first trophy of the game.",
+   "p": [
+    [
+     "Play the opening mission, Gone Fishing, from the start of the story; it teaches the basics as it goes.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "The trophy pops as the mission completes— it cannot be missed, because the story cannot move on without it.",
+     [
+      2
+     ]
+    ],
+    [
+     "Keep cheats off for the whole run: using one disables trophies and saving.",
+     [
+      2,
+      9
+     ]
+    ]
+   ]
+  },
+  "3": {
+   "s": 1,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish every mission of Chapter 1.",
+   "p": [
+    [
+     "Clear the Chapter 1 mission chain in order; the trophy lands as the chapter closes.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Before the chapter ends, take the Chapter 1 balcony meditation at Jason’s house (see Positive Mental Attitude)— it is the one moment the rest of the game cannot give back.",
+     [
+      2,
+      9
+     ]
+    ],
+    [
+     "Park a manual save at the chapter’s end; story missions cannot be replayed later.",
+     [
+      6
+     ]
+    ]
+   ]
+  },
+  "4": {
+   "s": 2,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish every mission of Chapter 2— the asterisks are in the official name, exactly as PlayStation publishes it.",
+   "p": [
+    [
+     "Play through Chapter 2’s missions in order; the trophy pops as the chapter closes.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Across this chapter both leads become playable together, which several later trophies quietly rely on.",
+     [
+      2
+     ]
+    ]
+   ]
+  },
+  "5": {
+   "s": 3,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish every mission of Chapter 3.",
+   "p": [
+    [
+     "Clear Chapter 3’s mission chain; the trophy pops at the chapter’s end.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Keep rotating manual saves— guides advise it because story missions cannot be replayed.",
+     [
+      6,
+      9
+     ]
+    ]
+   ]
+  },
+  "6": {
+   "s": 4,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish every mission of Chapter 4, the last full chapter before the finale.",
+   "p": [
+    [
+     "Clear Chapter 4’s missions in order; the trophy pops as the chapter closes.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Finish any stranger chains you care about before pushing into the finale (see the watch list).",
+     [
+      9
+     ]
+    ]
+   ]
+  },
+  "7": {
+   "s": 5,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the final mission of the story.",
+   "p": [
+    [
+     "Play the story to its last mission and complete it; this gold pops with the ending.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "Nothing after the finale locks: the open world stays open for the 100% cleanup.",
+     [
+      2
+     ]
+    ],
+    [
+     "The finale closes the story, not the game— free roam continues for everything else on this list.",
+     [
+      2
+     ]
+    ]
+   ]
+  },
+  "8": {
+   "s": 2,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission Breakfast Run.",
+   "p": [
+    [
+     "Complete Breakfast Run when it is offered in Chapter 2.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Story missions cannot be replayed, so take any optional moment inside it as it comes.",
+     [
+      6
+     ]
+    ]
+   ]
+  },
+  "9": {
+   "s": 2,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission The Cartel Heist.",
+   "p": [
+    [
+     "Complete The Cartel Heist in Chapter 2.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "It is a story set-piece: finishing the mission is the whole requirement.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "10": {
+   "s": 3,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission Child’s Play.",
+   "p": [
+    [
+     "Complete Child’s Play in Chapter 3.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "One of the 12 hidden story trophies: it stays invisible in the list until it pops.",
+     [
+      1,
+      4
+     ]
+    ]
+   ]
+  },
+  "11": {
+   "s": 3,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission Headliners.",
+   "p": [
+    [
+     "Complete Headliners in Chapter 3.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Like every story trophy it is hidden until earned— an empty slot in the list is normal.",
+     [
+      4
+     ]
+    ]
+   ]
+  },
+  "12": {
+   "s": 4,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission VCIA Takedown, at Vice City International Airport.",
+   "p": [
+    [
+     "Complete VCIA Takedown in Chapter 4.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Hidden until earned, as all 12 story trophies are.",
+     [
+      1,
+      4
+     ]
+    ]
+   ]
+  },
+  "13": {
+   "s": 4,
+   "k": [
+    "story"
+   ],
+   "x": 1,
+   "h": "Finish the story mission Operation Savage Glory.",
+   "p": [
+    [
+     "Complete Operation Savage Glory in Chapter 4.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "It is the last of the named story missions before the finale stretch.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "14": {
+   "s": 7,
+   "k": [
+    "completion"
+   ],
+   "h": "Attain 100% completion on the in-game checklist— the long gold, and the last gate before the platinum.",
+   "p": [
+    [
+     "After the story, open Progress > Stats > 100% Completion and work the checklist the game itself shows you.",
+     [
+      2,
+      9
+     ]
+    ],
+    [
+     "The checklist asks for less than everything: 15 of 18 meditations, 70 of 80 challenges, and part-counts on most collections.",
+     [
+      2,
+      4
+     ]
+    ],
+    [
+     "Guides rate this the hardest trophy on the list, and the platinum around it a 200-hour-plus project.",
+     [
+      4,
+      5
+     ]
+    ],
+    [
+     "Keep the in-game checklist open beside you in S7; it, not any guide, is the game’s own word on what 100% means.",
+     [
+      2
+     ]
+    ]
+   ],
+   "d": "Platinum time estimates disagree between guides— about 200 hours at PowerPyx, 200–250 at SixShore— so the roadmap prints the range and its sources, never a promise."
+  },
+  "15": {
+   "s": 7,
+   "k": [
+    "activities"
+   ],
+   "h": "Complete 250 stunts— stunt jumps scattered across Leonida, far more of them than the trophy needs.",
+   "p": [
+    [
+     "There are far more stunt jumps in the world than 250— one count puts 397 out there— so pick the completions that suit your route.",
+     [
+      5,
+      7
+     ]
+    ],
+    [
+     "A stunt only counts when it lands clean: a crashed jump is practice, not progress.",
+     [
+      6
+     ]
+    ],
+    [
+     "Stunts also feed the 100% checklist, so route them into the cleanup instead of hunting them during the story.",
+     [
+      2
+     ]
+    ]
+   ],
+   "c": {
+    "label": "stunts",
+    "target": 250
+   }
+  },
+  "16": {
+   "s": 6,
+   "k": [
+    "activities"
+   ],
+   "h": "Try each of the nine activity types once— a sampler, not a grind.",
+   "p": [
+    [
+     "There are nine activity types; start each one once and the trophy is yours— starting is the requirement, finishing is not.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Most types show an activity marker on the map once discovered; sweep them up on the S6 world pass.",
+     [
+      3
+     ]
+    ],
+    [
+     "If it has an activity marker, starting it once is enough— this is the cheapest bronze on the list.",
+     [
+      3
+     ]
+    ]
+   ],
+   "c": {
+    "label": "activity types",
+    "target": 9
+   }
+  },
+  "17": {
+   "s": 7,
+   "k": [
+    "activities"
+   ],
+   "h": "Earn a gold medal in all 42 Shooting Range challenges.",
+   "p": [
+    [
+     "Work range by range: every range hosts several challenges, and every one of the 42 must end with a gold medal.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "Gold is a score target, not a completion— replay a challenge until its medal turns gold before moving on.",
+     [
+      2
+     ]
+    ],
+    [
+     "Medal progress is per-challenge and permanent: a gold banked never needs re-earning.",
+     [
+      5
+     ]
+    ]
+   ],
+   "c": {
+    "label": "range golds",
+    "target": 42
+   }
+  },
+  "18": {
+   "s": 6,
+   "k": [
+    "activities"
+   ],
+   "h": "Win a Top Fun drone race at every location that offers one.",
+   "p": [
+    [
+     "The trophy counts locations, not total wins: one victory at each Top Fun location.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Drone races double as map exploration— clear them on the S6 pass and The Goodtime State gets closer too.",
+     [
+      6
+     ]
+    ],
+    [
+     "A win only counts once per location— re-winning a favourite race does not move this trophy.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "19": {
+   "s": 6,
+   "k": [
+    "activities"
+   ],
+   "h": "Win 20 different races— repeats of the same race do not stack.",
+   "p": [
+    [
+     "Enter races across the state and win 20 different ones; the word “different” is the whole trophy.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "If a race beats you, move on and return with a faster vehicle rather than re-winning one you already hold.",
+     [
+      6
+     ]
+    ],
+    [
+     "Chain nearby races together: the driving also builds exploration and vehicle discovery.",
+     [
+      6
+     ]
+    ]
+   ],
+   "c": {
+    "label": "races won",
+    "target": 20
+   }
+  },
+  "20": {
+   "s": 6,
+   "k": [
+    "activities"
+   ],
+   "h": "Beat Cal in a fishing challenge.",
+   "p": [
+    [
+     "Find Cal’s fishing challenge and enter it once your fishing is warmed up.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "It is a head-to-head: land the better catch under the challenge’s own rules and the trophy pops at the result.",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "21": {
+   "s": 6,
+   "k": [
+    "activities"
+   ],
+   "h": "Complete one arcade game— any cabinet, start to finish.",
+   "p": [
+    [
+     "Find an arcade cabinet in the world and play its game through to completion once.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Starting is not enough for this one: the game must be completed, unlike Master of None’s tasters.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "22": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Finish Andy’s whole stranger chain, through its final mission.",
+   "p": [
+    [
+     "Start Andy’s chain when his marker appears and keep returning until the final mission, Road to Rehabilitation, is done.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Do the chain as it opens rather than banking it for the endgame (see the watch note).",
+     [
+      9
+     ]
+    ],
+    [
+     "Finishing this chain also advances Strangers & Freaks, the silver for eight finished strands.",
+     [
+      1
+     ]
+    ]
+   ],
+   "w": "TechWiser reports the stranger chains behind the five hidden side trophies have windows tied to story progress. Unconfirmed— start Andy’s chain when it appears rather than leaving every chain for the endgame."
+  },
+  "23": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Finish Kenton’s whole stranger chain, through its final mission.",
+   "p": [
+    [
+     "Start Kenton’s chain when his marker appears and keep returning until the final mission, This Was No Boat Accident, is done.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Do the chain as it opens rather than banking it for the endgame (see the watch note).",
+     [
+      9
+     ]
+    ],
+    [
+     "Finishing this chain also advances Strangers & Freaks, the silver for eight finished strands.",
+     [
+      1
+     ]
+    ]
+   ],
+   "w": "TechWiser reports the stranger chains behind the five hidden side trophies have windows tied to story progress. Unconfirmed— start Kenton’s chain when it appears rather than leaving every chain for the endgame."
+  },
+  "24": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Finish Billy’s whole stranger chain, through its final mission.",
+   "p": [
+    [
+     "Start Billy’s chain when his marker appears and keep returning until the final mission, The Lone Rider, is done.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Do the chain as it opens rather than banking it for the endgame (see the watch note).",
+     [
+      9
+     ]
+    ],
+    [
+     "Finishing this chain also advances Strangers & Freaks, the silver for eight finished strands.",
+     [
+      1
+     ]
+    ]
+   ],
+   "w": "TechWiser reports the stranger chains behind the five hidden side trophies have windows tied to story progress. Unconfirmed— start Billy’s chain when it appears rather than leaving every chain for the endgame."
+  },
+  "25": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "h": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "p": [
+    [
+     "Strand markers appear as you explore; each strand is a short chain for one stranger, and eight finished strands earn the silver.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "The five named chains— Andy, Kenton, Billy, Randy, Tyrone— count toward the eight: finish them first, then top up with shorter strands.",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "c": {
+    "label": "strands",
+    "target": 8
+   }
+  },
+  "26": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Finish Randy’s whole stranger chain, through its final mission.",
+   "p": [
+    [
+     "Start Randy’s chain when his marker appears and keep returning until the final mission, Supply & Demand, is done.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Do the chain as it opens rather than banking it for the endgame (see the watch note).",
+     [
+      9
+     ]
+    ],
+    [
+     "Finishing this chain also advances Strangers & Freaks, the silver for eight finished strands.",
+     [
+      1
+     ]
+    ]
+   ],
+   "w": "TechWiser reports the stranger chains behind the five hidden side trophies have windows tied to story progress. Unconfirmed— start Randy’s chain when it appears rather than leaving every chain for the endgame."
+  },
+  "27": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Finish Tyrone’s whole stranger chain, through its final mission.",
+   "p": [
+    [
+     "Start Tyrone’s chain when his marker appears and keep returning until the final mission, Spin On This!, is done.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Do the chain as it opens rather than banking it for the endgame (see the watch note).",
+     [
+      9
+     ]
+    ],
+    [
+     "Finishing this chain also advances Strangers & Freaks, the silver for eight finished strands.",
+     [
+      1
+     ]
+    ]
+   ],
+   "w": "TechWiser reports the stranger chains behind the five hidden side trophies have windows tied to story progress. Unconfirmed— start Tyrone’s chain when it appears rather than leaving every chain for the endgame."
+  },
+  "28": {
+   "s": 1,
+   "k": [
+    "collectibles"
+   ],
+   "h": "Meditate at all 18 spots across 10 locations, with both Jason and Lucia— each spot counts twice that way. Start in Chapter 1: the first spot is a one-time offer that vanishes with the chapter.",
+   "p": [
+    [
+     "CHAPTER 1 ONLY: after the mission Down to Earth, find Lucia in the kitchen at Jason’s house the next morning and follow her out to the balcony; accept the meditation she offers.",
+     [
+      2,
+      9
+     ]
+    ],
+    [
+     "That balcony moment raises the meditation counter but is not marked as a spot like the others, and no source has confirmed whether the trophy requires it— do it, and the question never matters.",
+     [
+      2
+     ]
+    ],
+    [
+     "The remaining spots sit across 10 locations; meditate as both Jason and Lucia at each— one visit, two meditations.",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Both leads are playable together after Chapter 2’s Coffee Break, and the final spot only appears once the rest are done.",
+     [
+      2
+     ]
+    ],
+    [
+     "Spots mark themselves on the map when you come near— a purple icon is a meditation spot— and the count lives in Progress > Collections > Exploration > Meditations.",
+     [
+      2
+     ]
+    ]
+   ],
+   "c": {
+    "label": "meditations",
+    "target": 18
+   },
+   "m": "No guide reports a confirmed missable on this list, and this is the single trophy two of them flag as a risk: its first spot is a one-time Chapter 1 balcony meditation at Jason’s house that vanishes with the chapter, and whether the trophy needs it is unconfirmed. Do it in Chapter 1, keep a Chapter 1 save, and the question never matters.",
+   "d": "Guides say 18 meditations for the trophy while the 100% checklist stops at 15— and whether the one-time Chapter 1 balcony meditation is required is unconfirmed everywhere. Both versions are shown: do all 18, starting with the balcony, and the trophy is safe either way."
+  },
+  "29": {
+   "s": 6,
+   "k": [
+    "side"
+   ],
+   "x": 1,
+   "h": "Hunt a unique animal for Bret.",
+   "p": [
+    [
+     "Take Bret’s hunt when he offers it and track the unique animal he names.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Study animals as you travel— animal progress feeds the 100% checklist even when it is not this trophy.",
+     [
+      9
+     ]
+    ],
+    [
+     "Bret also runs the Target Decks behind the card sets, so his two threads feed two different trophies.",
+     [
+      9
+     ]
+    ]
+   ],
+   "w": "TechWiser’s stranger-window report covers the character chains, and Bret’s hunt is one of them. Unconfirmed— start it when it appears rather than assuming it waits forever."
+  },
+  "30": {
+   "s": 7,
+   "k": [
+    "collectibles"
+   ],
+   "h": "Complete 3 collectible card sets.",
+   "p": [
+    [
+     "Cards come in sets, found in the world and won in games; finish any three full sets.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "A set only completes when every card in it is held— a nearly-full set counts for nothing yet.",
+     [
+      5
+     ]
+    ],
+    [
+     "The 100% checklist asks for more of the sets than the trophy does, so keep collecting after this pops.",
+     [
+      4
+     ]
+    ]
+   ],
+   "c": {
+    "label": "card sets",
+    "target": 3
+   }
+  },
+  "31": {
+   "s": 7,
+   "k": [
+    "collectibles"
+   ],
+   "h": "WAiNK It at 100 locations— scan the world with the WAiNK app as you travel.",
+   "p": [
+    [
+     "Use the WAiNK app on new locations as you pass them; 100 scanned locations earn the silver.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Locations include businesses, landmarks and oddities— scan first, ask later, whenever the app pulses.",
+     [
+      3
+     ]
+    ],
+    [
+     "Make it a habit from Chapter 1: the 100% checklist wants 200 vehicle scans, so scanning early pays twice.",
+     [
+      9
+     ]
+    ]
+   ],
+   "c": {
+    "label": "locations scanned",
+    "target": 100
+   }
+  },
+  "32": {
+   "s": 7,
+   "k": [
+    "activities"
+   ],
+   "h": "Complete 50 challenges— the game’s tracked side-objectives.",
+   "p": [
+    [
+     "Challenges are the game’s tracked side-objectives; finish any 50 of the 80 on offer.",
+     [
+      2,
+      4
+     ]
+    ],
+    [
+     "The 100% checklist wants 70 of them, so this trophy is a waypoint on the platinum road, not the end of the grind.",
+     [
+      2
+     ]
+    ]
+   ],
+   "c": {
+    "label": "challenges",
+    "target": 50
+   }
+  },
+  "33": {
+   "s": 2,
+   "k": [
+    "crime"
+   ],
+   "h": "Lose a 4-star wanted level with your partner beside you and escape the heat.",
+   "p": [
+    [
+     "With your partner with you, raise a four-star wanted level, then break line of sight and stay hidden until the stars clear.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Four stars with your partner absent does not count— check they are with you before the chase starts.",
+     [
+      1
+     ]
+    ],
+    [
+     "Chapter 2 is where partner play opens up, and it is the natural home of this trophy.",
+     [
+      2
+     ]
+    ]
+   ]
+  },
+  "34": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Rob 3 shops back-to-back with your partner, without losing your wanted level in between.",
+   "p": [
+    [
+     "Plan a triangle of three shops close together, partner in tow, and rob them in one run.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "The chain breaks if the wanted level fully clears between shops— keep moving and keep the heat on.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "35": {
+   "s": 7,
+   "k": [
+    "collectibles"
+   ],
+   "h": "Discover 100 vehicles— variety, not mileage, is the grind.",
+   "p": [
+    [
+     "Every new vehicle model you encounter counts once it is discovered.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Stolen, bought and borrowed all count the same: if it is new to you, it is discovered.",
+     [
+      3
+     ]
+    ],
+    [
+     "Airports, marinas and rich districts concentrate rare models; vehicle discovery also feeds the 100% checklist.",
+     [
+      9
+     ]
+    ]
+   ],
+   "c": {
+    "label": "vehicles",
+    "target": 100
+   }
+  },
+  "36": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Take down 5 enemies in a single use of Combat Focus.",
+   "p": [
+    [
+     "Charge Combat Focus, then trigger it in a crowd of five or more hostiles and drop five before it ends.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Story set-pieces and gang operations give the densest groups— save the attempt for a packed room.",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "37": {
+   "s": 2,
+   "k": [
+    "crime"
+   ],
+   "x": 1,
+   "h": "Make an unscheduled departure at VCIA— leave the airport in a plane that was never yours.",
+   "p": [
+    [
+     "At Vice City International Airport, take an aircraft that was never scheduled to be yours and get airborne.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "The airport is a working location from early in the story; an “unscheduled departure” means leaving in a plane you did not book.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "38": {
+   "s": 4,
+   "k": [
+    "crime"
+   ],
+   "x": 1,
+   "h": "UNCONFIRMED: no source we read has a verified method— the description only hints at Rhinos, the game’s tanks.",
+   "p": [
+    [
+     "What is known: the description (“Kinda hot in these Rhinos”) points at the Rhino tank, and nothing beyond that is confirmed.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "We show the hint and say so, rather than inventing steps: if a Rhino falls into your hands in free roam, experimenting costs nothing.",
+     [
+      4
+     ]
+    ]
+   ],
+   "u": "No verified method in any source we read (checked 20 Nov 2026). The description hints at Rhinos— the game’s tanks. We show the hint and say so, rather than inventing steps."
+  },
+  "39": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Rob a jewelry store without being detected.",
+   "p": [
+    [
+     "Case the jewelry store first: enter quietly, keep the staff calm, and be gone before an alarm turns into a detection.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Detection is the fail state, not the wanted level— a silent exit with no stars is the clean version.",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "40": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Rob 5 bank vaults and escape— the crime list’s silver.",
+   "p": [
+    [
+     "Bank vaults are the heavy robberies: go in prepared, empty the vault, and lose the heat after each one.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "All five must end in an escape; a bust mid-vault does not count the robbery.",
+     [
+      1
+     ]
+    ],
+    [
+     "Vault robberies are also 100% checklist items, so none of the five is wasted effort.",
+     [
+      2
+     ]
+    ]
+   ],
+   "c": {
+    "label": "bank vaults",
+    "target": 5
+   }
+  },
+  "41": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Rob an armored truck and escape.",
+   "p": [
+    [
+     "Armored trucks run routes in free roam; hit one, take what it carries, and break the pursuit.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "A heavy vehicle or a blocked alley opens the rear doors fastest— after that, the escape is the trophy.",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "42": {
+   "s": 7,
+   "k": [
+    "collectibles"
+   ],
+   "h": "Explore all of Leonida— uncover the whole map, county by county.",
+   "p": [
+    [
+     "The map clears where you travel: work county by county until no dark patches remain.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Water counts: the Keys and the coast hide map edge that only a boat reveals.",
+     [
+      3
+     ]
+    ],
+    [
+     "This one finishes naturally if you route collectibles and strands instead of fast-travelling past them.",
+     [
+      5
+     ]
+    ]
+   ]
+  },
+  "43": {
+   "s": 7,
+   "k": [
+    "crime"
+   ],
+   "h": "Rob an illegal operation belonging to each gang.",
+   "p": [
+    [
+     "Every gang runs illegal operations; rob at least one belonging to each gang, not the same gang repeatedly.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "Gang operations also appear on the 100% checklist, so mark them as you find them.",
+     [
+      9
+     ]
+    ]
+   ]
+  },
+  "44": {
+   "s": 1,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "Enjoy a cocktail with a view on Ocean Beach— a quiet moment, available early.",
+   "p": [
+    [
+     "On Ocean Beach, order the cocktail and take in the view; the trophy is the moment, not a challenge.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "It is one of the eight cryptic hidden one-offs— none of them shows in the list until earned.",
+     [
+      4
+     ]
+    ],
+    [
+     "Do it on your first beach visit in Chapter 1 and it can never be forgotten.",
+     [
+      6
+     ]
+    ]
+   ]
+  },
+  "45": {
+   "s": 5,
+   "k": [
+    "crime"
+   ],
+   "x": 1,
+   "h": "Smash your way out of a vehicle showroom in classic style— through the glass, in a car.",
+   "p": [
+    [
+     "When a showroom moment turns bad, take a car and leave through the window rather than the door.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "“Classic style” is the description’s own joke about a series tradition: the exit is the trophy.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "46": {
+   "s": 6,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "Follow-through at the Kolt & Associates’ bowling alley— bowl a proper game there.",
+   "p": [
+    [
+     "Visit the Kolt & Associates bowling alley and play a game through to the end.",
+     [
+      1,
+      6
+     ]
+    ],
+    [
+     "Bowling is also one of the nine activity types, so this visit pays Master of None at the same time.",
+     [
+      1
+     ]
+    ]
+   ]
+  },
+  "47": {
+   "s": 5,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "A partnership with mass appeal— a two-lead feat whose exact trigger guides are still pinning down.",
+   "p": [
+    [
+     "What the description gives: something done as a partnership, with Jason and Lucia together.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "Partner-first play is the safe route: keep the pair together for world activities and it should land on the way.",
+     [
+      6
+     ]
+    ]
+   ]
+  },
+  "48": {
+   "s": 5,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "Choices made (for better or worse)— a story-choice trophy; make your choices deliberately.",
+   "p": [
+    [
+     "The description ties this to choices the story puts in front of you; it pops on a choice being made, whichever way it goes.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "Because story missions cannot be replayed, a choice cannot be re-rolled on the same save— keep chapter saves.",
+     [
+      6
+     ]
+    ]
+   ],
+   "w": "Choice-based and story-locked: the moment cannot be revisited on the same save, because story missions cannot be replayed. Unconfirmed as a risk— keep rotating chapter saves."
+  },
+  "49": {
+   "s": 5,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "Second time’s the charm— a feat shaped like a retry: fail once, succeed on the second attempt.",
+   "p": [
+    [
+     "The description’s shape is a retry: something that goes wrong the first time and right the second.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "Guides have not pinned the exact trigger; when a scripted moment offers a second attempt, take it rather than reloading.",
+     [
+      4
+     ]
+    ]
+   ]
+  },
+  "50": {
+   "s": 7,
+   "k": [
+    "mystery"
+   ],
+   "x": 1,
+   "h": "UNCONFIRMED: “What the hell just happened?”— a hidden oddity no source has verified a trigger for.",
+   "p": [
+    [
+     "What is known: the description records a reaction, not an action— something strange happens to you, not something you do.",
+     [
+      1,
+      4
+     ]
+    ],
+    [
+     "We show the hint and say so: unexplained Leonida oddities are the hunting ground, and no verified method exists yet.",
+     [
+      4,
+      7
+     ]
+    ]
+   ],
+   "u": "No verified trigger in any source we read (checked 20 Nov 2026). We show the description’s hint and say so, rather than inventing steps."
+  },
+  "51": {
+   "s": 6,
+   "k": [
+    "crime"
+   ],
+   "x": 1,
+   "h": "Bowl ’em over with a melee drive-by— the name is the count and the method.",
+   "p": [
+    [
+     "From a moving vehicle, swing a melee drive-by through a cluster of pedestrians, bowling-style.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Quiet streets with grouped pedestrians and a slow approach set it up best.",
+     [
+      6
+     ]
+    ]
+   ]
+  },
+  "52": {
+   "s": 7,
+   "k": [
+    "money"
+   ],
+   "h": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "p": [
+    [
+     "Marked Bills come from robberies; pass them through your laundering contacts until $250,000 has been cleaned.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "The counter tracks laundered Marked Bills specifically, not your total robbery take.",
+     [
+      5
+     ]
+    ],
+    [
+     "Start laundering early so the total builds during the story instead of after it.",
+     [
+      3
+     ]
+    ]
+   ],
+   "c": {
+    "label": "$ laundered",
+    "target": 250000
+   }
+  },
+  "53": {
+   "s": 7,
+   "k": [
+    "money"
+   ],
+   "h": "Spend $100,000 across all shops.",
+   "p": [
+    [
+     "Every shop purchase counts toward the same $100,000, across all shops and both leads.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Spending is shared across the whole game— there is no per-character split to manage.",
+     [
+      1
+     ]
+    ],
+    [
+     "Vehicles, property dressing and ammunition all move the needle— buy what the platinum run needs anyway.",
+     [
+      6
+     ]
+    ]
+   ],
+   "c": {
+    "label": "$ spent",
+    "target": 100000
+   }
+  },
+  "54": {
+   "s": 7,
+   "k": [
+    "money"
+   ],
+   "h": "Purchase all garage properties.",
+   "p": [
+    [
+     "Garages are bought properties: sweep the map’s for-sale garages and buy every one.",
+     [
+      1,
+      5
+     ]
+    ],
+    [
+     "Property and robbery money fund this— it pairs with the laundering total, not against it.",
+     [
+      3
+     ]
+    ]
+   ]
+  },
+  "55": {
+   "s": 7,
+   "k": [
+    "money"
+   ],
+   "h": "Register 10 vehicles to the Scooter Bros app.",
+   "p": [
+    [
+     "When you take a vehicle you like, register it to the Scooter Bros app; ten registrations earn the trophy.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Registration is permanent per vehicle, so register curiosities as well as keepers.",
+     [
+      3
+     ]
+    ],
+    [
+     "Register as you discover: this and Whip It Good grow from the same habit of trying new vehicles.",
+     [
+      6
+     ]
+    ]
+   ],
+   "c": {
+    "label": "vehicles registered",
+    "target": 10
+   }
+  }
+ }
+}
